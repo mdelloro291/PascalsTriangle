@@ -8,6 +8,7 @@ class Program {
 		int totalAbove = 0;
 		int totalBelow = 0;
 		//--rows;
+		
 		if(Int32.TryParse())
 		{
 			
